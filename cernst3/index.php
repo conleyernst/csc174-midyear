@@ -20,9 +20,6 @@
   		<img class="img-responsive" src="imgs/home-tato.jpg" alt="home potato">
 	</div>
 
-
-    <h1>TEST TEST TEST</h1>
-
     <div class="container-fluid">
     	<div class="row">
 	    <div class="col-sm">

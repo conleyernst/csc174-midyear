@@ -17,7 +17,7 @@
     <?php include "includes/nav.php"; ?>
 
     <div class="container">
-      <h1>Hello, world!</h1>
+      <h1>Welcome to the Wonderful World of Potatoes</h1>
 
       <div class="row">
         <!-- Left Col -->
