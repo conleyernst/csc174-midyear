@@ -29,6 +29,60 @@
               <!--  <h2 class="card-title">Toxic Tots!</h2> -->
 
               <div class="card-title">
+                <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/taters.jpg" width="200" height="200">
+                <span style="">The Potato: A History</span></h2>
+              </div>
+              <p class="card-text">The potato was first domesticated in the region of modern-day southern Peru and extreme northwestern Bolivia between 8000 and 5000 BC. It has since spread around the world and become a staple crop in many countries.</p>
+
+              <p class="card-text">The earliest archaeologically verified potato tuber remains have been found at the coastal site of Ancon (central Peru), dating to 2500 BC. The most widely cultivated variety, Solanum tuberosum tuberosum, is indigenous to the Chiloé Archipelago, and has been cultivated by the local indigenous people since before the Spanish conquest.</p>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
+
+              <div class="card-title">
+                <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/van.png" width="200" height="200">
+                <span style="">The Starch of Art</span></h2>
+              </div>
+              <p class="card-text">During the late 19th century, numerous images of potato harvesting appeared in European art, including the works of Willem Witsen and Anton Mauve.</p>
+
+              <p class="card-text">Van Gogh's 1885 painting The Potato Eaters portrays a family eating potatoes. Van Gogh said he wanted to depict peasants as they really were. He deliberately chose coarse and ugly models, thinking that they would be natural and unspoiled in his finished work.</p>
+
+              <p class="card-text">Jean-François Millet's The Potato Harvest depicts peasants working in the plains between Barbizon and Chailly. It presents a theme representative of the peasants' struggle for survival. Millet's technique for this work incorporated paste-like pigments thickly applied over a coarsely textured canvas.</p>
+
+              <p class="card-text">The potato has been an essential crop in the Andes since the pre-Columbian Era. The Moche culture from Northern Peru made ceramics from earth, water, and fire. This pottery was a sacred substance, formed in significant shapes and used to represent important themes. Potatoes are represented anthropomorphically as well as naturally.</p>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
+
+              <div class="card-title">
+                <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/mr.jpg" width="200" height="200">
+                <span style="">Pop Potato</span></h2>
+              </div>
+              <p class="card-text">Invented in 1949 and marketed and sold commercially by Hasbro in 1952, Mr. Potato Head is an American toy that consists of a plastic potato and attachable plastic parts such as ears and eyes to make a face. It was the first toy ever advertised on television.</p>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
+
+              <div class="card-title">
+                <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/tons.jpg" width="200" height="200">
+                <span style="">Tons of Taters</span></h2>
+              </div>
+              <p class="card-text">While there are close to 4,000 varieties of potato, it has been bred into many standard or well-known varieties, each of which has particular agricultural or culinary attributes. In general, varieties are categorized into a few main groups, such as russets, reds, whites, yellows (also called Yukons) and purples—based on common characteristics. Around 80 varieties are commercially available in the UK. For culinary purposes, varieties are often differentiated by their waxiness. Floury, or mealy (baking) potatoes have more starch (20–22%) than waxy (boiling) potatoes (16–18%). The distinction may also arise from variation in the comparative ratio of two potato starch compounds: amylose and amylopectin. Amylose, a long-chain molecule, diffuses from the starch granule when cooked in water, and lends itself to dishes where the potato is mashed. Varieties that contain a slightly higher amylopectin content, a highly branched molecule, help the potato retain its shape when boiled.</p>
+
+              <p class="card-text">The European Cultivated Potato Database (ECPD) is an online collaborative database of potato variety descriptions, updated and maintained by the Scottish Agricultural Science Agency within the framework of the European Cooperative Programme for Crop Genetic Resources Networks (ECP/GR)—which is run by the International Plant Genetic Resources Institute (IPGRI).</p>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-body">
+              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
+
+              <div class="card-title">
                 <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/green.jpg" width="200" height="200">
                 <span style="">Toxic Tots!</span></h2>
               </div>
@@ -39,21 +93,6 @@
               <p class="card-text">Breeders try to keep glycoalkaloid levels below 200 mg/kg (200 ppmw). However, when these commercial varieties turn green, they can still approach concentrations of solanine of 1000 mg/kg (1000 ppmw). In normal potatoes, analysis has shown solanine levels may be as little as 3.5% of the breeders' maximum, with 7–187 mg/kg being found. While a normal potato has 12–20 mg/kg of glycoalkaloid content, a green tuber contains 250–280 mg/kg, and green skin 1500–2200 mg/kg.</p>
             </div>
           </div>
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-          </div>
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
-            </div>
-          </div>
-
         </div>
         <!-- Right Col -->
         <div class="col-3">

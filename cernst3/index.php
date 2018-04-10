@@ -45,8 +45,8 @@
 			    <h5 class="card-title">Sign Up For Our Newsletter!</h5>
 			    <form action="/action_page.php">
 			    <div class="form-group">
-				    <label for="email">Email address:</label>
-				    <input type="email" class="form-control" id="email">
+			    	<label for="email">Name:</label><input type="email" class="form-control" id="name">
+				    <label for="email">Email:</label><input type="email" class="form-control" id="email">
 			  	</div>
 			  	<button type="submit" class="btn btn-default">Submit</button>
 				</form>
