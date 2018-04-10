@@ -13,39 +13,15 @@
   <?php include "includes/newnav.php"; ?>
 
 
-  <div class="tri-container">
-    <section class="col">
-    <div class="slider"> <!-- JavaSCRIPT Slider -->
-
-        <!-- In this slider, the IA chose images that represent the African continent, ensuring that attractions from Nigeria, Zimbabwe (The countries where Ola, Fiyin and Prosper are from), as well as Safaris from Kenya and South Africa, as these are strong representations of the African continent -->
-
-          <img src="images/bp1.png" alt = "Victoria Falls Zimbabwe" />
-          <img src="images/bp2.jpg" alt = "Zuma Rock in Nigeria" />
-          <img src="images/bp3.png" alt = "Safari Animals Kenya" />
-    </div>
-    </section>
-    <section class="col">
-    <div class="slider"> <!-- JavaSCRIPT Slider -->
-
-        <!-- In this slider, the IA chose images that represent the African continent, ensuring that attractions from Nigeria, Zimbabwe (The countries where Ola, Fiyin and Prosper are from), as well as Safaris from Kenya and South Africa, as these are strong representations of the African continent -->
-
-          <img src="images/b1.jpg" alt = "Victoria Falls Zimbabwe" />
-          <img src="images/b2.jpg" alt = "Zuma Rock in Nigeria" />
-          <img src="images/b3.jpg" alt = "Safari Animals Kenya" />
-    </div>
-    </section>
-    <section class="col">
-    <div class="slider"> <!-- JavaSCRIPT Slider -->
-
-        <!-- In this slider, the IA chose images that represent the African continent, ensuring that attractions from Nigeria, Zimbabwe (The countries where Ola, Fiyin and Prosper are from), as well as Safaris from Kenya and South Africa, as these are strong representations of the African continent -->
-
-          <img src="images/nb1.jpg" alt = "Victoria Falls Zimbabwe" />
-          <img src="images/nb2.jpg" alt = "Zuma Rock in Nigeria" />
-          <img src="images/nb3.jpg" alt = "Safari Animals Kenya" />
-    </div>
-    </section>
+  <div class="cover-image">
+    <!-- <img src="imgs/home-tato.jpg" alt="Some colorful 'tatos"> -->
   </div>
+  
+  <!-- <div align="center" style="position:static; height: 100%; width: 100%; top:0;left 0;">
+    <img src="imgs/home-tato.jpg" style="width: 80%">
+  </div> -->
 
+  
   <div class = "container">
     <section class="col home-content">
       <p>foo bar.</p>

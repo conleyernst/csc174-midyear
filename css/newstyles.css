@@ -5,6 +5,36 @@
     box-sizing: border-box;
 }
 
+
+/*IMAGE FORMATTING*/
+
+.cover-image {
+  width: 100%;
+  height: 600px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url('/imgs/home-tato.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*main text/font*/
 html,body,h3,h4,h5,h6 {font-family: 'Raleway', sans-serif;}
 
