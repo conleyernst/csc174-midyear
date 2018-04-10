@@ -16,9 +16,17 @@
 
   	<?php include "includes/nav.php"; ?>
 
-  	<div class="jumbotron">
-  		<img class="img-responsive" src="imgs/home-tato.jpg" alt="home potato">
+  	<div class="box">
+  		<!-- <img class="image" src="imgs/icon.png" alt="" width="120" height="120"> -->
+  		<!-- <img class="img-responsive" src="imgs/home-tato.jpg" alt="home potato"> -->
 	</div>
+
+	<!-- <div class="rotating" style="width: 100px; height: 100px; line-height: 100px; text-align: center;"><img src="imgs/icon.png"></div> -->
+	<!-- <div class="rotating"><img src="imgs/icon.png" style="width: 100px; height: 100px;"></div> -->
+	<div class="container-fluid">
+		<!-- <img class="image" src="imgs/icon.png" alt="" width="120" height="120"> -->
+	</div>
+
 
     <div class="container-fluid">
     	<div class="row">
