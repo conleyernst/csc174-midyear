@@ -3,8 +3,8 @@
 	  <div class="container-fluid">
 	    <!-- <div class="navbar-header"> -->
 	    	<a class="navbar-brand" href="#">
-			    <img src="imgs/icon.png" width="30" height="30" class="d-inline-block align-top" alt="ICON">
 			    Potatos
+			    <img src="imgs/icon.png" width="30" height="30" class="d-inline-block align-top" alt="ICON">
 			  </a>
 	      <!-- <a class="navbar-brand" href="#">WebSiteName</a> -->
 	    <!-- </div> -->
@@ -18,7 +18,7 @@
 	      <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
 	    </ul> -->
 	    <div class="navbar-nav">
-	      <a class="nav-item nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a>
+	      <a class="nav-item nav-link active" href="index.php">Home</a>
 	      <a class="nav-item nav-link" href="content.php">Learn More</a>
 	      <!-- <a class="nav-item nav-link" href="#">Sign Up</a> -->
 	    </div>

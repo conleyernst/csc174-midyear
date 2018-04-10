@@ -5,21 +5,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+     <?php include "includes/css_general.php"; ?>
+
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+   <!--  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
 
     <title>Hello, world!</title>
   </head>
   <body>
 
     <?php include "includes/nav.php"; ?>
-    
-    <h1>Hello, world!</h1>
 
     <div class="container">
+      <h1>Hello, world!</h1>
+
       <div class="row">
         <!-- Left Col -->
-        <div class="col-8">col-8
+        <div class="col-8">
           <div class="card">
             <div class="card-body">
               <h5 class="card-title">Special title treatment</h5>
