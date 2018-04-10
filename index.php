@@ -61,9 +61,29 @@
 			</div>
 	    </div>
 	    <div class="col-sm">
-	      <p>Lorem ipsum dolor sit amet, sagittis eget tristique amet congue mauris, mauris odio ipsum aenean donec duis venenatis. Tempore risus error faucibus id volutpat, ante arcu donec eros sed penatibus conubia, amet ac eget phasellus gravida ac, eu mauris, mattis mauris nullam arcu vivamus suspendisse adipiscing. Vel per elit nec turpis, non mi est, nam et ultricies enim. Ac in fusce excepturi metus quis, mi nonummy consequat porttitor eros posuere aliquam, explicabo ridiculus iusto dictumst nulla vulputate lobortis. Bibendum lectus volutpat vitae, felis ante maecenas quam pharetra et malesuada, quia est consequat ligula ornare ante neque, rutrum augue faucibus senectus diam elit sit.Lorem ipsum dolor sit amet, sagittis eget tristique amet congue mauris, mauris odio ipsum aenean donec duis venenatis. Tempore risus error faucibus id volutpat, ante arcu donec eros sed penatibus conubia, amet ac eget phasellus gravida ac, eu mauris, mattis mauris nullam arcu vivamus suspendisse adipiscing. Vel per elit nec turpis, non mi est, nam et ultricies enim. Ac in fusce excepturi metus quis, mi nonummy consequat porttitor eros posuere aliquam, explicabo ridiculus iusto dictumst nulla vulputate lobortis. Bibendum lectus volutpat vitae, felis ante maecenas quam pharetra et malesuada, quia est consequat ligula ornare ante neque, rutrum augue faucibus senectus diam elit sit.Lorem ipsum dolor sit amet, sagittis eget tristique amet congue mauris, mauris odio ipsum aenean donec duis venenatis. Tempore risus error faucibus id volutpat, ante arcu donec eros sed penatibus conubia, amet ac eget phasellus gravida ac, eu mauris, mattis mauris nullam arcu vivamus suspendisse adipiscing. Vel per elit nec turpis, non mi est, nam et ultricies enim. Ac in fusce excepturi metus quis, mi nonummy consequat porttitor eros posuere aliquam, explicabo ridiculus iusto dictumst nulla vulputate lobortis. Bibendum lectus volutpat vitae, felis ante maecenas quam pharetra et malesuada, quia est consequat ligula ornare ante neque, rutrum augue faucibus senectus diam elit sit.</p>
+	      <div class="card">
+			  <div class="card-body">
+			    <h5 class="card-title">Your Favorite Starch</h5>
+			    <p class="card-text">The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. Potato may be applied to both the plant and the edible tuber. Potatoes have become a staple food in many parts of the world and an integral part of much of the world's food supply. Potatoes are the world's fourth-largest food crop, following corn, wheat, and rice.</p>
+			    <a href="content.html" class="btn btn-primary">Learn More</a>
+			  </div>
+			</div>
 	    </div>
 	    <div class="col-sm">
+	      <div class="card">
+			  <div class="card-body">
+			    <h5 class="card-title">Sign Up For Our Newsletter!</h5>
+			    <form action="/action_page.php">
+			    <div class="form-group">
+				    <label for="email">Email address:</label>
+				    <input type="email" class="form-control" id="email">
+			  	</div>
+			  	<button type="submit" class="btn btn-default">Submit</button>
+				</form>
+			  </div>
+			</div>
+	    </div>
+	    <!-- <div class="col-sm">
 	      <form action="/action_page.php">
 			  <div class="form-group">
 			    <label for="email">Email address:</label>
@@ -71,7 +91,7 @@
 			  </div>
 			  <button type="submit" class="btn btn-default">Submit</button>
 			</form>
-	    </div>
+	    </div> -->
 	  </div>
 	</div>
 
