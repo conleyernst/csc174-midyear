@@ -17,7 +17,8 @@
 
 
 	<nav class="navbar navbar-default"> 
-    <a class="navbar-brand text-muted" href="#">Potatos<img src="imgs/icon.png" width="30" height="30" class="d-inline-block align-top invert" alt="ICON"></a>
+    <!-- <a class="navbar-brand text-muted" href="#">Potatos<img src="imgs/icon.png" width="30" height="30" class="d-inline-block align-top invert" alt="ICON"></a> -->
+    <a class="navbar-brand text-muted" href="https://www.facebook.com/fanclubofpotatos/"><h1>Potatos</h1></a>
     <div class="navbar-nav">
     	<div class="my-nav-items">
 			<a class="nav-item nav-link" href="index.php">Home</a>

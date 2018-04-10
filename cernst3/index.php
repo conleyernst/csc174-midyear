@@ -25,10 +25,8 @@
 	    <div class="col-sm">
 	      <div class="card">
 			  <div class="card-body">
-			    <h5 class="card-title">Your Favorite Starch</h5>
-			    <p class="card-text">The potato is a starchy, tuberous crop from the perennial nightshade Solanum tuberosum. Potato may be applied to both the plant and the edible tuber. Potatoes have become a staple food in many parts of the world and an integral part of much of the world's food supply. Potatoes are the world's fourth-largest food crop, following corn, wheat, and rice.</p>
-			    <a href="#" class="card-link">Card link</a>
-			    <a href="#" class="card-link">Another link</a>
+			    <h5 class="card-title">Spud Muffin</h5>
+			    <p class="card-text">Spuds. Taters. Yams. All words for the mighty potato. But why are they called spuds? The Medieval words “spyde” and “spad” referred to simple digging tools. Because spades were used to plant and dig potatoes, the tubers themselves eventually acquired the name spud.</p>
 			  </div>
 			</div>
 	    </div>

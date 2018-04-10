@@ -6,21 +6,38 @@ font-family: 'Love Ya Like A Sister', cursive;
 body {
 	font-family: 'Delius', cursive;
 	background-color: #f4e399;
+	color: #3a2b1f;
 }
 
-h1,h5 {
+h1, h2, h5 {
 	font-family: 'Love Ya Like A Sister', cursive;
+}
+
+h1{
+	color: #dd8236;
+	font-size: 60px;
+}
+
+h2 {
+	color: #5a300d;
 }
 
 .invert { 
 	filter: invert(100%);
 }
 
-
+.container {
+	max-width: 95%;
+}
 
 /*.navbar {
 	background-color: #5a300d;
 }*/
+
+.content-header{
+	text-align: center;
+	padding-top: 50px;
+}
 
 .card {
 	margin-top: 25px;
@@ -39,6 +56,8 @@ h1,h5 {
 /*NAVIGATION BAR*/
 
 .navbar-brand {
+	padding-left: 50px;
+	padding-top: 50px;
 	font-size: 30px;
 	font-family: 'Love Ya Like A Sister', cursive;
 }
