@@ -7,6 +7,20 @@
 
 
     <?php include "includes/css_general.php"; ?>
+
+    <?php 
+	
+		$i = rand (5 , 20);
+
+		for ($x = 0; $x <= $i; $x++) {
+	    	$s = rand (50 , 300);
+	    	// $percent = rand (25, 75).%;
+	    	// $percent = 100/$decimal;
+	    	echo "The number is: $s <br>";
+	    	echo '<img class="image" src="imgs/icon.png" alt="" width="$s" height="$s" style="left: 25%;">';
+		}
+
+	?>
     <!-- Bootstrap CSS -->
     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
 
@@ -16,9 +30,10 @@
 
   	<?php include "includes/nav.php"; ?>
 
-  	<div class="box">
-  		<!-- <img class="image" src="imgs/icon.png" alt="" width="120" height="120"> -->
-  		<!-- <img class="img-responsive" src="imgs/home-tato.jpg" alt="home potato"> -->
+  	<div class="container">
+	  	<div class="box">
+	  			<p>foo bar</p>
+		</div>
 	</div>
 
 	<!-- <div class="rotating" style="width: 100px; height: 100px; line-height: 100px; text-align: center;"><img src="imgs/icon.png"></div> -->
@@ -56,7 +71,7 @@
 			    	<label for="email">Name:</label><input type="email" class="form-control" id="name">
 				    <label for="email">Email:</label><input type="email" class="form-control" id="email">
 			  	</div>
-			  	<button type="submit" class="btn btn-default">Submit</button>
+			  	<button type="submit" class="btn btn-primary">Submit</button>
 				</form>
 			  </div>
 			</div>
