@@ -1,5 +1,5 @@
 # csc174-midyear
-Midyear take home exam for CSC 174
+Midyear take home exam for CSC 174. This website is built using PHP and Bootstrap (for no other reason than I wanted to learn how to use bootstrap better).
 
 
 ## IA:
@@ -26,17 +26,15 @@ Midyear take home exam for CSC 174
     Alignment: Alignment is also seen through the card and header structure- especially on the content page. This webpage has a document structure, with clear heading and page organization.
     Proximity: Once again, promixity is done by grouping like content into cards, which are clearly visually separated on the page. 
    ### Fonts (readability and legibility):
-   	Love Ya Like A Sister was selected as the title font because it is handwritten and looks almost like someone was creating an advertisement for a farmers market. 
+   	"Love Ya Like A Sister" was selected as the title font because it is handwritten and looks almost like someone was creating an advertisement for a farmers market. It is both earthy and fun, so its the perfect font for a website about potatoes. "Delius" also has a handwritten flair and pairs well with "Love Ya Like A Sister", though it is far simpler
+	Though both fonts are very readable, "Delius" is more legible. Therefore "Delius" was used for smaller text and block text while "Love Ya Like A Sister" was used for larger headings.
    ### CSS Architecture:
+   	CSS Architecture for this project was made fair easier by using Bootstrap. Other than that, custom classes were used to group like attributes (see comments in styles.css for more information)
    
  ## Tech
   ### Database Credentials:
+  	IP: "66.147.242.186";
+	Username: urcscon3_cernst4
+	Password: coffee1N/!
+	Database Name: urcscon3_cernst3
   ### Other Fun Things: 
-
-Z- and F-Patterns (layout) …you need to use both
-C.R.A.P. Principles (styling) …you need to demonstrate at least three of the four
-
-
-The color palette used was inspired by: http://www.color-hex.com/color-palette/15900
-  This not only containts high contrast colors but also warm tones, which create a welcoming environment. The main color was 
-  selected to be the color of a red potato
