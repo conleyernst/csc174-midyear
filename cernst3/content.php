@@ -91,6 +91,17 @@
         <!-- Right Col -->
         <div class="col-3">
           <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">Sign Up For Our Newsletter!</h5>
+
+                <form action="submit.php" method="post">
+                  Name: <input type="text" name="name"><br>
+                  E-mail: <input type="email" name="email"><br>
+                  <input type="submit">
+                </form>
+            </div>
+          </div>
+          <div class="card">
             <div class="card-body">
               <img class="card-img" src="imgs/girl.jpg" alt="Card image">
               <blockquote class="blockquote mb-0">

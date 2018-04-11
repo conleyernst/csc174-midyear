@@ -71,12 +71,26 @@
 	      <div class="card">
 			  <div class="card-body">
 			    <h5 class="card-title">Sign Up For Our Newsletter!</h5>
-			    <form action="/action_page.php">
-			    <div class="form-group">
-			    	<label for="email">Name:</label><input type="email" class="form-control" id="name">
-				    <label for="email">Email:</label><input type="email" class="form-control" id="email">
-			  	</div>
-			  	<button type="submit" class="btn btn-primary">Submit</button>
+
+			  <!--   <div id="form-messages"></div>
+			    <form id="ajax-contact" method="post" action="mailer.php">
+				    <div class="field">
+				        <label for="name">Name:</label>
+				        <input type="text" id="name" name="name" required>
+				    </div>
+
+				    <div class="field">
+				        <label for="email">Email:</label>
+				        <input type="email" id="email" name="email" required>
+				    </div>
+			    </form> -->
+
+
+
+			    <form action="submit.php" method="post">
+						Name: <input type="text" name="name"><br>
+						E-mail: <input type="email" name="email"><br>
+					<input type="submit">
 				</form>
 			  </div>
 			</div>
@@ -92,6 +106,11 @@
 	    </div> -->
 	  </div>
 	</div>
+
+
+	<!-- form js -->
+	<script src="jquery-2.1.0.min.js"></script>
+	<script src="app.js"></script>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
