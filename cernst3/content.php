@@ -5,15 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+    <!-- Inlcude for all CSS -->
      <?php include "includes/css_general.php"; ?>
 
-    <!-- Bootstrap CSS -->
-   <!--  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
-
-    <title>Hello, world!</title>
+    <title>Midyear Exam: Content</title>
   </head>
   <body>
 
+    <!-- Include for nav elements -->
     <?php include "includes/nav.php"; ?>
 
     <div class="container">
@@ -22,12 +21,11 @@
       </div>
 
       <div class="row">
+
         <!-- Left Col -->
         <div class="col-9">
           <div class="card">
             <div class="card-body">
-              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
-
               <div class="card-title">
                 <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/taters.jpg" width="200" height="200">
                 <span style="">The Potato: A History</span></h2>
@@ -39,7 +37,6 @@
           </div>
           <div class="card">
             <div class="card-body">
-              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
 
               <div class="card-title">
                 <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/van.png" width="200" height="200">
@@ -56,8 +53,7 @@
           </div>
           <div class="card">
             <div class="card-body">
-              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
-
+=
               <div class="card-title">
                 <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/mr.jpg" width="200" height="200">
                 <span style="">Pop Potato</span></h2>
@@ -67,7 +63,6 @@
           </div>
           <div class="card">
             <div class="card-body">
-              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
 
               <div class="card-title">
                 <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/tons.jpg" width="200" height="200">
@@ -80,7 +75,6 @@
           </div>
           <div class="card">
             <div class="card-body">
-              <!--  <h2 class="card-title">Toxic Tots!</h2> -->
 
               <div class="card-title">
                 <h2><img class="img-thumbnail" style="vertical-align:middle" src="imgs/green.jpg" width="200" height="200">
@@ -97,26 +91,20 @@
         <!-- Right Col -->
         <div class="col-3">
           <div class="card">
-            <!-- <img class="card-img" src="imgs/girl.jpg" alt="Card image"> -->
             <div class="card-body">
               <img class="card-img" src="imgs/girl.jpg" alt="Card image">
               <blockquote class="blockquote mb-0">
                 <p><em>"Potatoes are the superior starch!"<em></p>
                 <footer class="blockquote-footer">A Girl Who Really Likes Potatoes</footer>
               </blockquote>
-              <!-- <h5 class="card-title">Card title</h5>
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p> -->
             </div>
           </div>
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title">Special title treatment</h5>
-              <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-              <a href="#" class="btn btn-primary">Go somewhere</a>
+              <p class="card-text">Common Name: Potato</p>
+              <p class="card-text">Scientific Name: <em>Solanum tuberosum</em></p>
             </div>
           </div>
-
         </div>
       </div>
     </div>

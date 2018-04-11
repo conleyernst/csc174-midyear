@@ -15,7 +15,7 @@
   //$insertData = mysqli_real_escape_string($connection, $insertData);
   
   // 2. Perform database query
-  $query  = "INSERT INTO Product VALUES ('$insertName', '$insertEmail', '$insertProposal')";
+  $query  = "INSERT INTO urcscon3_cernst3 VALUES ('$insertName', '$insertEmail')";
   $result = mysqli_query($connection, $query);
 
 ?>
