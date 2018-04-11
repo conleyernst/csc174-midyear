@@ -26,6 +26,7 @@ Midyear take home exam for CSC 174
     Alignment: Alignment is also seen through the card and header structure- especially on the content page. This webpage has a document structure, with clear heading and page organization.
     Proximity: Once again, promixity is done by grouping like content into cards, which are clearly visually separated on the page. 
    ### Fonts (readability and legibility):
+   	Love Ya Like A Sister was selected as the title font because it is handwritten and looks almost like someone was creating an advertisement for a farmers market. 
    ### CSS Architecture:
    
  ## Tech
