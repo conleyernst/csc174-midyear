@@ -30,9 +30,14 @@
 
   	<?php include "includes/nav.php"; ?>
 
-  	<div class="container">
+  	<!-- <div class="container">
 	  	<div class="box">
 	  			<p>foo bar</p>
+		</div>
+	</div> -->
+	<div class="container">
+		<div class="card">
+			<img class="card-img" src="imgs/home-tato.jpg" alt="Card image">
 		</div>
 	</div>
 

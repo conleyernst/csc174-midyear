@@ -16,23 +16,16 @@ h1, h2, h5 {
 h1{
 	color: #dd8236;
 	font-size: 60px;
+	/*text-shadow: 2px 2px 4px #dd8236;*/
 }
 
 h2 {
 	color: #5a300d;
 }
 
-.invert { 
-	filter: invert(100%);
-}
-
 .container {
 	max-width: 95%;
 }
-
-/*.navbar {
-	background-color: #5a300d;
-}*/
 
 .content-header{
 	text-align: center;
@@ -65,11 +58,23 @@ h2 {
     background-color: transparent;
 }
 
+/*BUTTONS AND IMAGES*/
+
+.img-thumbnail{
+	background-color: #5a300d;
+}
+
 .btn{
 	text-align: center;
 	background-color: #5a300d;
-	border-color: #3a2b1f;
+	border-color: #5a300d;
 	color: #ffd450;
+}
+
+.btn:hover{
+	background-color: #ff6a6a;
+	border-color: #ff6a6a;
+	color: #3a2b1f;
 }
 
 
@@ -88,7 +93,13 @@ h2 {
 }
 
 .nav-item {
+	font-family: 'Love Ya Like A Sister', cursive;
+	font-size: 20px;
 	color: #dd8236;
+	float: right;
+	margin-right:30px;
+	text-align: center;
+
 }
 
 .nav-item:hover {
@@ -101,8 +112,7 @@ h2 {
 
 
 
-
-/*ROTATE?*/
+/*ROTATE*/
 
 /*https://stackoverflow.com/questions/16771225/css3-rotate-animation*/
 
@@ -124,8 +134,3 @@ h2 {
 @keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
 
 
-
-/*#f4e399*/
-/*.navbar a{
-	color: #ffae6a;
-}

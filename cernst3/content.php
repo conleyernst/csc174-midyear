@@ -101,7 +101,7 @@
             <div class="card-body">
               <img class="card-img" src="imgs/girl.jpg" alt="Card image">
               <blockquote class="blockquote mb-0">
-                <p><em>Potatoes are the superior starch!<em></p>
+                <p><em>"Potatoes are the superior starch!"<em></p>
                 <footer class="blockquote-footer">A Girl Who Really Likes Potatoes</footer>
               </blockquote>
               <!-- <h5 class="card-title">Card title</h5>

@@ -21,8 +21,9 @@
     <a class="navbar-brand text-muted" href="https://www.facebook.com/fanclubofpotatos/"><h1>Potatoes</h1></a>
     <div class="navbar-nav">
     	<span>
-			<a class="nav-item nav-link" href="index.php">Home</a>
+		    <a class="nav-item nav-link" href="content.php"><img src="imgs/cool.png" alt="just a cool potato" height="80"></a>
 		    <a class="nav-item nav-link" href="content.php">Learn More</a>
+		    <a class="nav-item nav-link" href="index.php">Home</a>
 		</span>
 	</div>
 	<img class="image" src="imgs/spinme.png" alt="" width="80" height="80" style="left: 23%;">
