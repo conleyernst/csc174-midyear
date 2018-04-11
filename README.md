@@ -13,17 +13,18 @@ Midyear take home exam for CSC 174
 ## DESIGN:
    ### Layout:
    		As stated above, the home page implements a Z-Pattern (as it is less text intensive and prompts the users to move deeper into the site) and the content/Learn More page implements an F-Pattern (as it is more text/content oriented). 
-		Implementations of layouts were inspired by:
+	Implementations of layouts were inspired by:
 		https://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687
 		https://webdesign.tutsplus.com/articles/understanding-the-z-layout-in-web-design--webdesign-28
    ### C.R.A.P. Principles:
-    Contrast:
-		The Palette's Used:
+    Contrast: Contrast was mainly achieved on this webpage throught the color palettes used. The combination of light and dark colors in addition to complimentary colors helps create content that 'pops'. Additionally, all the cards are "framed" with two contrasting colors so they stand out from the background. 
+    The palettes were selected because they are not only warm Earthy tones that create a welcoming environment, while still staying fun because after all this is a website about potatoes. 
+	The Palettes Used
 		http://www.color-hex.com/color-palette/18955
 		http://www.color-hex.com/color-palette/15900
-    Repetition:
-    Alignment:
-    Proximity:
+    Repetition: Repetition can be seen with the consistancy of cards styles and fonts, in addition to the cary through of nav and style elements. This can especially be seen on the content page with the consistent layout of the cards: ie. image, title, content. 
+    Alignment: Alignment is also seen through the card and header structure- especially on the content page. This webpage has a document structure, with clear heading and page organization.
+    Proximity: Once again, promixity is done by grouping like content into cards, which are clearly visually separated on the page. 
    ### Fonts (readability and legibility):
    ### CSS Architecture:
    
