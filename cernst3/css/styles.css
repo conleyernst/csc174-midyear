@@ -67,6 +67,9 @@ h2 {
 
 .btn{
 	text-align: center;
+	background-color: #5a300d;
+	border-color: #3a2b1f;
+	color: #ffd450;
 }
 
 
@@ -88,6 +91,10 @@ h2 {
 	color: #dd8236;
 }
 
+.nav-item:hover {
+	color: #ffd450;
+}
+
 .my-nav-items {
 	padding-right: 50px;
 }
@@ -102,10 +109,10 @@ h2 {
 .image {
 	z-index: 100;
     position: absolute;
-    top: 60px;
+    top: 40px;
    /* top: 50%;
     left: 50%;*/
-  /*  width: 120px;
+    w/*idth: 120px;
     height: 120px;*/
     margin:-60px 0 0 -60px;
     -webkit-animation:spin 4s linear infinite;
