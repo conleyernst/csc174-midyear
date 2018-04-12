@@ -8,22 +8,6 @@
 
     <?php include "includes/css_general.php"; ?>
 
-    <!-- <?php 
-	
-		$i = rand (5 , 20);
-
-		for ($x = 0; $x <= $i; $x++) {
-	    	$s = rand (50 , 300);
-	    	// $percent = rand (25, 75).%;
-	    	// $percent = 100/$decimal;
-	    	echo "The number is: $s <br>";
-	    	echo '<img class="image" src="imgs/icon.png" alt="" width="$s" height="$s" style="left: 25%;">';
-		}
-
-	?> -->
-    <!-- Bootstrap CSS -->
-    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
-
     <title>Midyear Exam</title>
   </head>
   <body>
@@ -71,22 +55,6 @@
 	      <div class="card">
 			  <div class="card-body">
 			    <h5 class="card-title">Sign Up For Our Newsletter!</h5>
-
-			  <!--   <div id="form-messages"></div>
-			    <form id="ajax-contact" method="post" action="mailer.php">
-				    <div class="field">
-				        <label for="name">Name:</label>
-				        <input type="text" id="name" name="name" required>
-				    </div>
-
-				    <div class="field">
-				        <label for="email">Email:</label>
-				        <input type="email" id="email" name="email" required>
-				    </div>
-			    </form> -->
-
-
-
 			    <form action="submit.php" method="post">
 						Name: <input type="text" name="name"><br>
 						E-mail: <input type="email" name="email"><br>
@@ -95,15 +63,6 @@
 			  </div>
 			</div>
 	    </div>
-	    <!-- <div class="col-sm">
-	      <form action="/action_page.php">
-			  <div class="form-group">
-			    <label for="email">Email address:</label>
-			    <input type="email" class="form-control" id="email">
-			  </div>
-			  <button type="submit" class="btn btn-default">Submit</button>
-			</form>
-	    </div> -->
 	  </div>
 	</div>
 

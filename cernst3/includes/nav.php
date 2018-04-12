@@ -26,7 +26,7 @@
 		    <a class="nav-item nav-link" href="index.php">Home</a>
 		</span>
 	</div>
-	<img class="image" src="imgs/spinme.png" alt="" width="80" height="80" style="left: 23%;">
+	<img class="image" src="imgs/spinme.png" alt="" width="80" height="80" style="left: 400px; top: 60%;">
 	<!-- <img class="image" src="imgs/icon.png" alt="" width="120" height="120" style="left: 50%;">
 	<img class="image" src="imgs/icon.png" alt="" width="120" height="120" style="left: 75%;"> -->
 </nav>
